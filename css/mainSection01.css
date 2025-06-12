@@ -217,19 +217,6 @@ li {
   top: -4px;
   margin-left: -10px;
 }
-.section01 .symbol {
-  width: 1075px;
-  height: 100%;
-  position: absolute;
-  top: -15%;
-  right: 0%;
-}
-.section01 .symbol img {
-  width: 100%;
-  -webkit-filter: blur(10px);
-          filter: blur(10px);
-  opacity: 0.1;
-}
 
 /* responsive Mobile */
 @media (max-width: 767px) {

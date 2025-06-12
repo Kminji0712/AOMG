@@ -229,7 +229,7 @@ gsap.from(".introduce-video > video", {
 gsap.to(".next-intro", {
   scrollTrigger: {
     trigger: ".introduce",
-    start: "top+=70% center",
+    start: "top+=60% center",
     end: "center center",
     scrub: 1,
   },
