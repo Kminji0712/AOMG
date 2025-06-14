@@ -57,9 +57,6 @@ li {
 /* line */
 /* padding & margin */
 /* ############ Common CSS ############*/
-* {
-  font-family: "NCLNeovibes-Demo";
-}
 
 html {
   scroll-behavior: smooth;
