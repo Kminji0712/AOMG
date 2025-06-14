@@ -297,5 +297,6 @@ html {
   }
   .footer-content .footer-bar {
     height: 30px;
+    font-family: $secondary-en;
   }
 }
