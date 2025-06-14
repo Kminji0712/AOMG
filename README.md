@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=soft&fontColor=FF4322&text=AOMG&height=300&fontSize=100&desc=Renewal%20Project&descSize=15&descAlignY=68&descAlign=50&animation=fadeIn&color=0B090A&stroke=FF4322&strokeWidth=4)
+
 #  🎤AOMG 엔터테인먼트 홈페이지 리뉴얼
 <br/>
 
@@ -6,6 +8,7 @@
 - 디자인: 5일 (2025년 05월 19일 ~ 2025년 05월 23일)
 - 개발: 10일 (2025년 05월 26일 ~ 2025년 06월 11일)
 <br/>
+<br><br>
 
 ## 👨‍👧‍👧Team 역할 및 담당
 - 김민지(팀장):
@@ -15,102 +18,145 @@
 - 장서연:
   <br/>자료 조사, 디자인 구성 // 메인페이지의 main, about, 서브페이지의 Artist, Artist Sub 제작
 <br/>
+<br><br><br>
 
-## ⭐️프로젝트 설명
+## 🛠️ 개발 환경
 
-### 메인 페이지 
-- 대표 기능: Swiper을 이용한 이미지 및 동영상 슬라이드, 스크롤 이벤트의 AOS 기능
-- 사용자 인터페이스: 강렬한 타이포그래피와 동적인 기능을 적용한 이미지가 돋보이며, swiper, pagination, scrollEvent등이 적용됨
-- 네비게이션: 서브페이지로 이동할 수 있는 기능 구현
+### ✅ 사용 프로그램  
+<img src="https://img.shields.io/badge/VS Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+
+### ✅ 사용된 기술  
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>  
+<img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white"/>  
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>  
+<img src="https://img.shields.io/badge/Swiper-6332F6?style=flat-square&logo=swiper&logoColor=white"/>  
+<img src="https://img.shields.io/badge/AOS-000000?style=flat-square&logo=aos&logoColor=white"/>  
+<img src="https://img.shields.io/badge/GSAP ScrollTrigger-88CE02?style=flat-square&logo=greensock&logoColor=black"/>
+
+### ✅ 사용 API  
+<img src="https://img.shields.io/badge/OpenWeather-0095D5?style=flat-square&logo=OpenWeather&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Naver Map-03C75A?style=flat-square"/>
+
+<br/>
+<br><br><br>
+
+## 📂프로젝트 개요
+해당 작업은 'AOMG 엔터테인먼트'의 기존 홈페이지의 문제점을 보완하고자 3인으로 구성된 리뉴얼 프로젝트입니다. </br>
+AOMG 엔터테인먼트만의 색깔을 직관적으로 표현하며, 비주얼 중심의 홈페이지이나 또한 사용자 중심의 인터페이스를 제공 하였습니다.
+
+### 메인 페이지 기능
+- **비주얼 중심 슬라이드**  
+  Swiper를 활용한 이미지·영상 슬라이드로 AOMG 아이덴티티 표현
+
+- **동적 스크롤 기능**  
+  AOS를 활용한 Fade, Zoom, Slide 등의 스크롤 애니메이션 적용
+
+- **직관적이고 강렬한 UI 요소**  
+  타이포그래피 애니메이션, 인터랙션 효과 등 시각적 표현
+
+- **직관적인 내비게이션**  
+  고정 헤더 및 햄버거 메뉴를 통한 서브페이지 이동 기능 구현
 
 ### 서브 페이지 기능
 
-- 세부 내용 제공: 서브 페이지에서 제공하는 구체적인 정보나 자료들을 설명.(예를 들어, 서비스 소개, FAQ, 정책 자료)
-- 카테고리 별 페이지: 서브 페이지에서 카테고리 별로 나뉘어 있는 기능들, 예를 들어 각 부서 소개, 로그인기능, 문서 다운로드 등
+- **카테고리별 콘텐츠 제공**  
+  사용자 중심의 About, Artist, Schedule, News, Store로 구성되어 각 항목별 콘텐츠 제공
 
-## 💻 개발 환경
+- **상세 정보 및 인터랙션**  
+  아티스트 상세 보기, 공연 일정, 뉴스 리스트, 상품 소개 등 다양한 정보 제공
 
-- 개발 환경 : <img src="https://img.shields.io/badge/windows10-0078D6?style=flat-square&logo=windows10&logoColor=white"/>
-- 사용 프로그램 : <img src="https://img.shields.io/badge/Vs code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>  <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
-- 사용된 기술 :
-  <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/Swiper-6332F6?style=flat-square&logo=Swiper&logoColor=white">
+- **사용자 편의 기능**  
+  검색/필터, 모달, 페이지네이션 등 사용자 중심의 UI 구성
 
-
-
-## 👀 페이지 구성
-
-### 메인 페이지
-
-| 섹션1 : 메인비주얼                                                                                                      |
-| :---------------------------------------------------------------------------------------------------------------------- |
-| ![메인비주얼](https://github.com/user-attachments/assets/d7107121-e60d-4407-8795-813ed25c7698)
+<br><br><br>
 
 
-| 화려하고 시선을 이끄는 이미지들을 활용한 와이드샷 이미지를 배경슬라이드로 사용합니다. 텍스트 슬라이드 총 두 가지의 슬라이드가 각각 정확한 타이밍에 작동되고 있습니다.
 
+## 🖥️페이지 구성 소개
 <br>
 
-| 섹션2 : 티켓 예매 / 프로모션                                                                                              |
-| :------------------------------------------------------------------------------------------------------------------------ |
-| ![busanReserv]() |
+## 📰 메인 페이지 섹션별 기능
+![main](https://github.com/user-attachments/assets/b7d7daa5-06de-4fe8-8855-d999f35e9a31)
 
-| 현재 온라인 예약 / 사전예약으로 예매할 경우 할인이 들어가는 입장권의 종류를 나열합니다. 각각 얼만큼 할인이 되는지 이미지에 after을 주어 오른쪽 상단에 보여줍니다. 마우스 hover시 이미지의 scale이 변화하고 translateY가 변화하며 위로 올라가는 효과를 줍니다.<br>
-| 뒷배경으로 보이는 배와 물결에서 확인할 수 있듯 수면을 나타낸 것이며 이하의 영역들은 마치 바닷속을 나타내는 것과도 같습니다.
 
-<br>
+### Header (공통적용)
+- 상단 고정형 내비게이션 호버 시 텍스트 색상 변경
+- 각 메뉴 클릭 시 해당 서브페이지로 이동
+- (반응형) 햄버거 버튼 클릭 시 내비게이션 등장 및 서브페이지로 이동
 
-| 섹션3 : 전시존                                                                                                           |
-| :----------------------------------------------------------------------------------------------------------------------- |
-| ![busanSlick]() |
+### Main Visual
+- Swiper를 활용한 이미지/동영상 슬라이드 구성
+- 텍스트 슬라이드와 미디어 슬라이드를 분리하여 구성
+- 자동재생 + 수동 터치/드래그 모두 지원
+- 페이지네이션 이동 버튼 추가
 
-| 씨라이프 부산에서 전시중인 컨텐츠들을 Slick 슬라이더를 활용하여 나타냅니다. 자동 & 무한반복 슬라이드이며 hover시 translateY값을 변경하여 마우스 커서가 해당 전시를 가리키고 있는지 한 눈에 확인 가능합니다.
+###  Concept
+- AOMG 아이덴티티를 나타낼 수 있는 타이포그래피 및 화보 이미지로 구성
+- Swiper와 페이지네이션 사용
 
-<br>
+### Artist
+- 아티스트를 카드 형태로 시각적으로 배치
+- Hover 시 아티스트 정보 노출
+- AOS를 활용한 스크롤 이벤트 생성
 
-| 섹션4 : 공연                                                                                                           |
-| :--------------------------------------------------------------------------------------------------------------------- |
-| ![busanPer]() |
 
-| 씨라이프 부산에서 공연중인 컨텐츠들을 탭 메뉴로 보여줍니다. 네 가지의 공연이 진행되고 있으며 반응형에서는 select menu로 변경됩니다.
+### News
+- 뉴스 콘텐츠를 썸네일 카드 형태로 나열
+- 클릭 시 상세 페이지로 이동, Swiper로 나열
 
-<br>
 
-| 섹션5 : 바다친구들                                                                                                        |
-| :------------------------------------------------------------------------------------------------------------------------ |
-| ![busanFriend]() |
-| 씨라이프 부산에서 만날 수 있는 대표적인 해양생물들을 보여줍니다.
+### About
+- AOMG 비주얼 이미지와 호버 시 애니메이션 구현 및 페이지 이동
 
-<br>
 
-| 섹션6 : 리뷰와 Footer                                                                                                           |
-| :------------------------------------------------------------------------------------------------------------------------------ |
-| ![busanReviewFooter]() |
+### Footer (공통 적용)
+- 회사 정보, 정책, 고객센터 링크 포함
+- SNS 아이콘으로 외부 채널 연동
+- 연속 애니메이션을 이용한 타이포그래픽 생성
 
-| 기존 홈페이지에서는 단 하나의 리뷰만이 노출되어있으며 이 또한 네이버페이 리뷰 링크로 연결됩니다. 사진을 포함하여 여러 종류의 리뷰를 볼 수 있도록 바닐라 슬라이드로 구현하였습니다.<br>
-| 해저 바닥과도 같은 느낌을 주는 Footer 입니다. 산호와 게에 움직임을 주어 사용자에게 마치 실제 바닷속에 있는 듯한 즐거움을 주기 위한 효과입니다.
+<br><br><br>
 
-<br>
+## 📰서브페이지
 
-### 서브페이지
+![sub_About](https://github.com/user-attachments/assets/ed0b0723-ca3b-462f-b8d1-2f40e0eea8de)
+### About
+- 스크롤트리거를 통한 비디오 풀스크린 생성 및 텍스트 등장
+- AOS 기능으로 회사 소개 문구
+- Map API로 회사 위치 소개
 
-| 서브01 : 티켓 예매                                                                                                        |
-| :------------------------------------------------------------------------------------------------------------------------ |
-| ![busanSub1-3]() |
+<br><br><br>
 
-| 사이트의 주된 목적인 티켓예매 페이지입니다. 수많은 종류의 티켓을 모두 보여주려 공간을 효율적으로 활용하기 위해 Swiper 슬라이드를 사용하였고, 유형별 티켓을 구분하기 위해 슬라이드 박스 오른쪽 상단에 색상으로 종류를 나타내었습니다.<br>
-| 씨라이프 부산의 또다른 테마 전시관인 '브릭맨 원더월드'로 연결되는 버튼이 존재하며 예매 일정 변경이나 단체 방문에 관한 안내페이지로 넘어갈 수 있도록 하는 섹션이 있습니다. <br>
-| 마지막으로 입장권 환불 규정과 공지를 담은 아코디언 메뉴가 있습니다. 이 부분이 아코디언 메뉴라 탭을 열고 닫아야 한다는 것을 사용자가 한 눈에 인지할 수 있도록 둘 중 하나의 아코디언을 open 상태로 두었습니다.
+![sub_Artist01](https://github.com/user-attachments/assets/c69cf41e-5c15-464c-bf7d-ff88ef418474)
+![sub_Artist02](https://github.com/user-attachments/assets/24f83879-e81d-4a62-860a-deeff377f8e3)
+### Artist
+- Swiper 슬라이드 기능을 통한 아티스트 소개
+- 이미지 호버 기능과 해당 아티스트 소개 페이지 이동
+- Swiper와 Pagination의 기능을 한 페이지에 구성
 
-<br>
+<br><br><br>
 
-| 서브02 : 안전수칙                                                                                                       |
-| :---------------------------------------------------------------------------------------------------------------------- |
-| ![busanSub2]() |
+![sub_Schedule](https://github.com/user-attachments/assets/5ccf1729-6256-45b7-9d64-b64740c1ac98)
 
-| 페이지 제작 당시 많이 완화가 되고 있었으나 아직 코로나 바이러스의 확산 방지를 위한 규정들이 존재했기에 이를 방문자에게 상기시키기 위한 컨텐츠가 배치되었습니다. AOS를 활용하여 컨텐츠들이 떠오르는 효과를 주어 지루한 느낌이 들지 않도록 제작하였습니다.
+### Schedule
+- GSAP 스크롤 애니메이션을 이용한 비주얼 강조
+- JS를 이용하여 테이블 리스트 정리
+- OpenWeather API를 통한 날씨 정보 구현
+- 달력 내 스케줄 정보 연동
 
-## 🚀 링크
+<br><br><br>
 
-- [기획]()
-- [디자인]()
-- [DEMO]()\
+![sub_News](https://github.com/user-attachments/assets/49e72da2-d851-4de8-9f77-24c0bf13e308)
+
+### News
+- JS를 이용하여 테이블 리스트 정리
+- Pagination를 활용하여 사용자 중심의 인포메이션 구성
+
+<br><br><br>
+
+![sub_Store](https://github.com/user-attachments/assets/3cc8201d-0cf4-4048-80e5-08228606a787)
+
+### Store
+- 아티스트별 굿즈 소개, 최신 앨범 소개
+- Swiper를 통한 섹션별 굿즈 소개
+- ul>li구성으로 Pagination을 구현하여 정렬
